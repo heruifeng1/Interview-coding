@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76ee524a-b93c-4668-bbe3-c3654fa2f758" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/__test__/rotateMatrix.spec.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1jXy0FFaoUvi6oPF6zOKDaKTNBc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.postfix.templates" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Jest.旋转数组.should ">
+    <configuration name="旋转数组.should " type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__test__/rotateMatrix.spec.ts" />
+      <test-names>
+        <test-name value="旋转数组" />
+        <test-name value="should " />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="debounce a function" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/_jest@26.6.1@jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/__test__/debounce.spec.ts" />
+      <test-names>
+        <test-name value="debounce a function" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="debounce a function.延迟执行函数" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__test__/debounce.spec.ts" />
+      <test-names>
+        <test-name value="debounce a function" />
+        <test-name value="延迟执行函数" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="debounce a function.should " type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__test__/debounce.spec.ts" />
+      <test-names>
+        <test-name value="debounce a function" />
+        <test-name value="should " />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.旋转数组.should " />
+        <item itemvalue="Jest.debounce a function.延迟执行函数" />
+        <item itemvalue="Jest.debounce a function.should " />
+        <item itemvalue="Jest.debounce a function" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76ee524a-b93c-4668-bbe3-c3654fa2f758" name="Default Changelist" comment="" />
+      <created>1603964506099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603964506099</updated>
+      <workItem from="1603964507169" duration="676000" />
+      <workItem from="1603965195038" duration="3919000" />
+      <workItem from="1604061460945" duration="768000" />
+      <workItem from="1604063012998" duration="854000" />
+      <workItem from="1604127676182" duration="766000" />
+      <workItem from="1604280402216" duration="54000" />
+      <workItem from="1604280473740" duration="495000" />
+      <workItem from="1604286186617" duration="153000" />
+      <workItem from="1604651755285" duration="1261000" />
+      <workItem from="1604902607614" duration="281000" />
+      <workItem from="1604913148888" duration="598000" />
+      <workItem from="1605098017381" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1018" y="507" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1603964994339">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1018" y="507" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/2560.259.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1603964994339" />
+    <state width="2516" height="424" key="GridCell.Tab.0.bottom" timestamp="1604902583200">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="424" key="GridCell.Tab.0.bottom/2560.259.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1604902583200" />
+    <state width="2516" height="424" key="GridCell.Tab.0.center" timestamp="1604902583198">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="424" key="GridCell.Tab.0.center/2560.259.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1604902583198" />
+    <state width="2516" height="424" key="GridCell.Tab.0.left" timestamp="1604902583197">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="424" key="GridCell.Tab.0.left/2560.259.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1604902583197" />
+    <state width="2516" height="424" key="GridCell.Tab.0.right" timestamp="1604902583199">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="424" key="GridCell.Tab.0.right/2560.259.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1604902583199" />
+    <state x="552" y="279" key="SettingsEditor" timestamp="1604239016297">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="552" y="279" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1604239016297" />
+    <state x="789" y="359" key="SettingsEditor/2560.259.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1604062260281" />
+    <state width="500" height="400" key="SwitcherDM" timestamp="1603964519619">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="500" height="400" key="SwitcherDM/2560.259.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1603964519619" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1604062252601">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/2560.259.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1604062252601" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/__test__/debounce.spec.ts</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
