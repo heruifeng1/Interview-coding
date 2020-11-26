@@ -1,0 +1,28 @@
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val) {
+ *     this.val = val;
+ *     this.left = this.right = null;
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @return {boolean}
+ */
+var isValidBST = function(root) {
+    let inorder = -Infinity;
+    const stack = [root];
+    let curr = root
+    while(true){
+        goAlongLeftTree(curr,stack)
+        const node = stack.pop();
+        if(stack.length === 0){
+            break;
+        }
+        if(node.val <= inorder){
+            return false
+        }
+        inorder = node.val;
+        curr = node.right;
+    }
+};

@@ -20,7 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76ee524a-b93c-4668-bbe3-c3654fa2f758" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/__test__/rotateMatrix.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-API/Apply_implementation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-API/Bind_implementation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-API/Call_implementation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-API/New_Implementation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-API/__test__/apply.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-API/__test__/bind.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-API/__test__/mybind.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/排序/冒泡排序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/排序/冒泡改进.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/树/LeetCode - 98 -  验证二叉搜索树的-中序遍历版本" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +55,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -54,7 +65,42 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Jest.旋转数组.should ">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/算法/树" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/算法" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Grunt tasks" flag="true" />
+      <visibility group="Gulp tasks" flag="true" />
+      <visibility group="Node.js" flag="true" />
+      <visibility group="Recent projects" flag="true" />
+      <visibility group="Run configurations" flag="true" />
+      <visibility group="npm" flag="true" />
+      <visibility group="yarn" flag="true" />
+    </myKeys>
+  </component>
+  <component name="RunManager" selected="Node.js.Call_implementation.js">
+    <configuration name="Function.#bind().binds properly without a context" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/JS-API/__test__/bind.spec.js" />
+      <test-names>
+        <test-name value="Function" />
+        <test-name value="#bind()" />
+        <test-name value="binds properly without a context" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration name="旋转数组.should " type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -66,19 +112,6 @@
       <test-names>
         <test-name value="旋转数组" />
         <test-name value="should " />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="debounce a function" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/_jest@26.6.1@jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="SUITE" />
-      <test-file value="$PROJECT_DIR$/__test__/debounce.spec.ts" />
-      <test-names>
-        <test-name value="debounce a function" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -96,26 +129,19 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="debounce a function.should " type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/__test__/debounce.spec.ts" />
-      <test-names>
-        <test-name value="debounce a function" />
-        <test-name value="should " />
-      </test-names>
+    <configuration name="Bind_implementation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS-API/Bind_implementation.js" working-dir="$PROJECT_DIR$/JS-API">
+      <method v="2" />
+    </configuration>
+    <configuration name="Call_implementation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS-API/Call_implementation.js" working-dir="$PROJECT_DIR$/JS-API">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Call_implementation.js" />
+        <item itemvalue="Node.js.Bind_implementation.js" />
+        <item itemvalue="Jest.Function.#bind().binds properly without a context" />
         <item itemvalue="Jest.旋转数组.should " />
         <item itemvalue="Jest.debounce a function.延迟执行函数" />
-        <item itemvalue="Jest.debounce a function.should " />
-        <item itemvalue="Jest.debounce a function" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +165,32 @@
       <workItem from="1604902607614" duration="281000" />
       <workItem from="1604913148888" duration="598000" />
       <workItem from="1605098017381" duration="31000" />
+      <workItem from="1605260830420" duration="5288000" />
+      <workItem from="1605488660936" duration="13000" />
+      <workItem from="1605495997436" duration="9019000" />
+      <workItem from="1605668387140" duration="5643000" />
+      <workItem from="1605684132292" duration="1344000" />
+      <workItem from="1606009649378" duration="10047000" />
+      <workItem from="1606122611066" duration="318000" />
+      <workItem from="1606134511797" duration="2409000" />
+      <workItem from="1606219395106" duration="4028000" />
+      <workItem from="1606315150749" duration="4814000" />
     </task>
+    <task id="LOCAL-00001" summary="复习:二叉树的前序遍历的迭代递归三种实现方式">
+      <created>1605271629100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605271629100</updated>
+    </task>
+    <task id="LOCAL-00002" summary="中序遍历">
+      <created>1605531141211</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605531141211</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,27 +208,115 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="复习:二叉树的前序遍历的迭代递归三种实现方式" />
+    <MESSAGE value="中序遍历" />
+    <option name="LAST_COMMIT_MESSAGE" value="中序遍历" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="749" y="423" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606219552552">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="749" y="423" key="#com.intellij.fileTypes.FileTypeChooser/1792.-201.2560.1417/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1606219552552" />
+    <state x="1103" y="540" key="#com.intellij.fileTypes.FileTypeChooser/2560.282.1792.1097/56.23.2504.1417@56.23.2504.1417" timestamp="1605533954440" />
+    <state x="782" y="423" key="#com.intellij.fileTypes.FileTypeChooser/56.23.1736.1097@56.23.1736.1097" timestamp="1605670347345" />
     <state x="1018" y="507" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1603964994339">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1018" y="507" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/2560.259.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1603964994339" />
-    <state width="2516" height="424" key="GridCell.Tab.0.bottom" timestamp="1604902583200">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="952" y="299" key="CommitChangelistDialog2" timestamp="1605531141110">
+      <screen x="56" y="23" width="2504" height="1417" />
     </state>
+    <state x="952" y="299" key="CommitChangelistDialog2/2560.282.1792.1097/56.23.2504.1417@56.23.2504.1417" timestamp="1605531141110" />
+    <state width="1748" height="303" key="GridCell.Tab.0.bottom" timestamp="1606178860268">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1606013151881" />
+    <state width="1748" height="303" key="GridCell.Tab.0.bottom/1792.-201.2560.1417/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1606178860268" />
     <state width="2516" height="424" key="GridCell.Tab.0.bottom/2560.259.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1604902583200" />
-    <state width="2516" height="424" key="GridCell.Tab.0.center" timestamp="1604902583198">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1692" height="303" key="GridCell.Tab.0.bottom/56.23.1736.1097@56.23.1736.1097" timestamp="1605684115355" />
+    <state width="1748" height="303" key="GridCell.Tab.0.center" timestamp="1606178860267">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
+    <state width="1748" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1606013151880" />
+    <state width="1748" height="303" key="GridCell.Tab.0.center/1792.-201.2560.1417/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1606178860267" />
     <state width="2516" height="424" key="GridCell.Tab.0.center/2560.259.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1604902583198" />
-    <state width="2516" height="424" key="GridCell.Tab.0.left" timestamp="1604902583197">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1692" height="303" key="GridCell.Tab.0.center/56.23.1736.1097@56.23.1736.1097" timestamp="1605684115355" />
+    <state width="1748" height="303" key="GridCell.Tab.0.left" timestamp="1606178860266">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
+    <state width="1748" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1606013151880" />
+    <state width="1748" height="303" key="GridCell.Tab.0.left/1792.-201.2560.1417/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1606178860266" />
     <state width="2516" height="424" key="GridCell.Tab.0.left/2560.259.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1604902583197" />
-    <state width="2516" height="424" key="GridCell.Tab.0.right" timestamp="1604902583199">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1692" height="303" key="GridCell.Tab.0.left/56.23.1736.1097@56.23.1736.1097" timestamp="1605684115355" />
+    <state width="1748" height="303" key="GridCell.Tab.0.right" timestamp="1606178860267">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
+    <state width="1748" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1606013151881" />
+    <state width="1748" height="303" key="GridCell.Tab.0.right/1792.-201.2560.1417/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1606178860267" />
     <state width="2516" height="424" key="GridCell.Tab.0.right/2560.259.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1604902583199" />
+    <state width="1692" height="303" key="GridCell.Tab.0.right/56.23.1736.1097@56.23.1736.1097" timestamp="1605684115355" />
+    <state width="1748" height="374" key="GridCell.Tab.1.bottom" timestamp="1606093036419">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="374" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1606010676324" />
+    <state width="1748" height="374" key="GridCell.Tab.1.bottom/1792.-201.2560.1417/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1606093036419" />
+    <state width="1748" height="374" key="GridCell.Tab.1.center" timestamp="1606093036418">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="374" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1606010676323" />
+    <state width="1748" height="374" key="GridCell.Tab.1.center/1792.-201.2560.1417/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1606093036417" />
+    <state width="1748" height="374" key="GridCell.Tab.1.left" timestamp="1606093036416">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="374" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1606010676323" />
+    <state width="1748" height="374" key="GridCell.Tab.1.left/1792.-201.2560.1417/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1606093036416" />
+    <state width="1748" height="374" key="GridCell.Tab.1.right" timestamp="1606093036418">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="374" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1606010676324" />
+    <state width="1748" height="374" key="GridCell.Tab.1.right/1792.-201.2560.1417/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1606093036418" />
+    <state width="1748" height="374" key="GridCell.Tab.2.bottom" timestamp="1606093036421">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="374" key="GridCell.Tab.2.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1606010676324" />
+    <state width="1748" height="374" key="GridCell.Tab.2.bottom/1792.-201.2560.1417/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1606093036421" />
+    <state width="1748" height="374" key="GridCell.Tab.2.center" timestamp="1606093036420">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="374" key="GridCell.Tab.2.center/0.23.1792.1097@0.23.1792.1097" timestamp="1606010676324" />
+    <state width="1748" height="374" key="GridCell.Tab.2.center/1792.-201.2560.1417/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1606093036420" />
+    <state width="1748" height="374" key="GridCell.Tab.2.left" timestamp="1606093036419">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="374" key="GridCell.Tab.2.left/0.23.1792.1097@0.23.1792.1097" timestamp="1606010676324" />
+    <state width="1748" height="374" key="GridCell.Tab.2.left/1792.-201.2560.1417/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1606093036419" />
+    <state width="1748" height="374" key="GridCell.Tab.2.right" timestamp="1606093036420">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="374" key="GridCell.Tab.2.right/0.23.1792.1097@0.23.1792.1097" timestamp="1606010676324" />
+    <state width="1748" height="374" key="GridCell.Tab.2.right/1792.-201.2560.1417/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1606093036420" />
+    <state width="1748" height="374" key="GridCell.Tab.3.bottom" timestamp="1606093036422">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="374" key="GridCell.Tab.3.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1606010676325" />
+    <state width="1748" height="374" key="GridCell.Tab.3.bottom/1792.-201.2560.1417/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1606093036422" />
+    <state width="1748" height="374" key="GridCell.Tab.3.center" timestamp="1606093036421">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="374" key="GridCell.Tab.3.center/0.23.1792.1097@0.23.1792.1097" timestamp="1606010676325" />
+    <state width="1748" height="374" key="GridCell.Tab.3.center/1792.-201.2560.1417/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1606093036421" />
+    <state width="1748" height="374" key="GridCell.Tab.3.left" timestamp="1606093036421">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="374" key="GridCell.Tab.3.left/0.23.1792.1097@0.23.1792.1097" timestamp="1606010676325" />
+    <state width="1748" height="374" key="GridCell.Tab.3.left/1792.-201.2560.1417/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1606093036421" />
+    <state width="1748" height="374" key="GridCell.Tab.3.right" timestamp="1606093036422">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="374" key="GridCell.Tab.3.right/0.23.1792.1097@0.23.1792.1097" timestamp="1606010676325" />
+    <state width="1748" height="374" key="GridCell.Tab.3.right/1792.-201.2560.1417/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1606093036422" />
     <state x="552" y="279" key="SettingsEditor" timestamp="1604239016297">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -187,6 +326,14 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="500" height="400" key="SwitcherDM/2560.259.1792.1120/0.0.2560.1440@0.0.2560.1440" timestamp="1603964519619" />
+    <state x="596" y="297" width="599" height="548" key="find.popup" timestamp="1606010851747">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="596" y="297" width="599" height="548" key="find.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1606010851747" />
+    <state x="561" y="266" key="run.anything.popup" timestamp="1606010867202">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="561" y="266" key="run.anything.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1606010867202" />
     <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1604062252601">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
