@@ -5,20 +5,27 @@
 
 var maxProfit = function(prices) {
     let maxProfit = 0;
+    let high = 0;
+    let low = prices[0];
     let i = 1;
-    let pre_min = prices[0]
     while(i<prices.length){
-        const curr = prices[i];
-        if(curr < pre_min){
-            pre_min = curr;
+        const price = prices[i];
+        //下降渠道
+        if(price < high){
+            maxProfit += high - low;
+            low = price
+            high = 0;
         }else{
-            const currProfit = curr - pre_min
-            if(currProfit > maxProfit){
-                maxProfit = currProfit
+            //上升渠道
+            if(price > high){
+                high = price
+            }
+            if(price < low){
+                low = price
             }
         }
+
         i++
     }
     return maxProfit
-
 };
